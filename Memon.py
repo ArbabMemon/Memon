@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To lovehacker
+#The Credit For This Code Goes To Arbab Memon
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -88,15 +88,15 @@ logo = """
 :    :¯¯¯:     :  `·´¯¯`·. :  :  .·´.·´_.·´`·.': :   `·.:  : 
 |`·._`·..·´   ¸.·|`·.·´¯`·.·´|`·.|·´_____.·.(·'_.|   '.·'_.| 
 `·.|.·´__.·´ .·´`·.|.·´`·.|·´`·.¸||______|/\||_'|/   |__|/ 
-   |___'|.·´    lovehacker BlackMafia     -«
-\033[1;95m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•
+   |___'|.·´    Hacker Arbab Memon     -«
+\033[1;95m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;91mFather_Of_Hackers\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ather▬•◈•
 \033[1;91m:•◈•╔╗─────────╔╗───────╔╗
 \033[1;91m:•◈•║║─────────║║───────║║
 \033[1;91m:•◈•║║╔══╦╗╔╦══╣╚═╦══╦══╣║╔╦══╦═╗
 \033[1;91m:•◈•║║║╔╗║╚╝║║═╣╔╗║╔╗║╔═╣╚╝╣║═╣╔╝   
 \033[1;91m:•◈•║╚╣╚╝╠╗╔╣║═╣║║║╔╗║╚═╣╔╗╣║═╣║    
 \033[1;91m:•◈•╚═╩══╝╚╝╚══╩╝╚╩╝╚╩══╩╝╚╩══╩╝
-\033[1;95m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"""
+\033[1;95m:•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ ather•◈•"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -121,7 +121,7 @@ print  """
 \033[1;95m║╔═╗║║║╔╗║╔═╣╚╝╣║║║║║╔╗╠╗╔╬╣╔╗║
 \033[1;95m║╚═╝║╚╣╔╗║╚═╣╔╗╣║║║║║╔╗║║║║║╔╗║
 \033[1;95m╚═══╩═╩╝╚╩══╩╝╚╩╝╚╝╚╩╝╚╝╚╝╚╩╝╚╝
-\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;95mBlackMafia\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;95mArbab_Memon\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 jalan("\033[1;95m----------------------//\\")
 jalan("\033[1;95m---------------------// ¤ \\")
 jalan("\033[1;95m---------------------\\ ¤ //")
@@ -162,11 +162,11 @@ jalan("\033[1;95m---------------------\|[¤]|] ")
 jalan("\033[1;95m----------------------\\¤// ")
 jalan("\033[1;95m-----------------------\|/ ")
 jalan("\033[1;95m------------------------V ")                                     
-jalan('\033[1;91m    Toll Update 100%   Welcome to BlackMafia')
-print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+jalan('\033[1;91m    Toll Update 100%   Welcome to ArbabMemon')
+print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
-CorrectUsername = "Corona"
-CorrectPassword = "lovehacker"
+CorrectUsername = "Arbab"
+CorrectPassword = "Memon"
 
 loop = 'true'
 while (loop == 'true'):
@@ -195,7 +195,7 @@ def login():
 		jalan(' \033[1;91mWarning: \033[1;95mDo Not Use Your Personal Account' )
 		jalan(' \033[1;91mWarning: \033[1;95mUse a New Account To Login' )
 		jalan(' \033[1;91mWarning: \033[1;95mTermux  All version Work✅' )                 
-		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		print('	   \033[1;91m▬\x1b[1;95m.........LOGIN WITH FACEBOOK........\x1b[1;91m▬' )
 		print('	' )
 		id = raw_input('\033[1;91m[+] \x1b[1;91mID/Email\x1b[1;95m: \x1b[1;95m')
@@ -274,7 +274,7 @@ def menu():
 	print "  \033[1;95m«----•◈••◈•----\033[1;91mLogged in User Info\033[1;95m----•◈••◈•-----»"
 	print "	   \033[1;91m Name\033[1;91m:\033[1;91m"+nama+"\033[1;95m               "
 	print "	   \033[1;91m ID\033[1;91m:\033[1;91m"+id+"\x1b[1;95m              "
-	print "\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;95mBlackMafia\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;95mArbabMemon\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	print "\033[1;91m-•◈•-\033[1;91m> \033[1;91m1.\x1b[1;95mStart Cloning..."
 	print "\033[1;91m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91mlogout            "
 	pilih()
@@ -321,7 +321,7 @@ def pilih_super():
 	elif peak =="1":
 		os.system('clear')
 		print logo
-		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 		jalan('\033[1;91mGetting IDs \033[1;91m...')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
@@ -357,9 +357,9 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;95mCloning\033[1;91m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;91m«--•◈••◈•---\x1b[1;95m•◈•Stop Process Press CTRL+Z•◈•\033[1;91m---•◈••◈•-»"
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	jalan(' \033[1;91m.................\033[1;95mCloning Start..\033[1;91m............ ')
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	
 			
 	def main(arg):
@@ -500,9 +500,9 @@ def pilih_super():
 		
 	p = ThreadPool(50)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
-	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 Corona.py)↩\033[1;97m....'
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By Arbab-Memon--•◈•---»" #Dev:love_hacker
+	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 Memon.py)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;95m"+str(len(cekpoint))
 	print """
                          ~·¹´¨¨¨¨¨¨¨¨¨¨¨¨¨¨`²·    
@@ -525,10 +525,10 @@ def pilih_super():
                        Checkpoint ID Open After 7 Days
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....lovehacker  BlackMafia....... \033[1;95m :
+: \033[1;91m ....Arbab-Memon (+923003023263)....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;91m +923094161457"""
+              \033[1;91m +923003023263"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
